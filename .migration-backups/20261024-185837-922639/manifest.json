@@ -1,0 +1,122 @@
+[
+  {
+    "path": "LECTURE.md",
+    "before": null,
+    "after": "1e02b4abb2042a1a543f09de64244e0635efa9531baf28e1c99dce8aa1f684a0"
+  },
+  {
+    "path": "README.md",
+    "before": "53a1e15cbecba641bd61bbcd081d6c9de7bcf24d4ae77b4da0e42b81078a3f16",
+    "after": "b1b87b050806f48a4c8fdff584421ab4dd65b8391a03fac16ad00460a8891802"
+  },
+  {
+    "path": "archives/game-workspace-before-merge.tar.gz",
+    "before": null,
+    "after": "2454f83e6dfedb8446824d031c39f8f5f587df82266b57d12b53c191b41ab661"
+  },
+  {
+    "path": "docs/content-migration.md",
+    "before": null,
+    "after": "7145dd20119554fc530dd048468610158e61f07500fcd111eb02e78790d81127"
+  },
+  {
+    "path": "docs/emacs-markdown-preview.md",
+    "before": null,
+    "after": "47c3e8354a82ff736b6aa15879b425c613845c7e34a9706672a6a6a984f2cc21"
+  },
+  {
+    "path": "docs/roadmap.md",
+    "before": "3272ad8340900856da15f73a035fbd515cc3a96574d810cca3798fe41797f4f5",
+    "after": "efde5ccc18f20ec269a08dabe4aa9024e40b6898b3d8bfc9a8dbd8f62f0ea519"
+  },
+  {
+    "path": "lectures/00-instructor-guide.md",
+    "before": "e5a9aa0cd7a8895c269201dc539ac60e1423adece190e5c2efeeadbb67b063db",
+    "after": "2b804ff787165ec14787faea17c0c0ebea40d689da9230b8b6a95ad190f87110"
+  },
+  {
+    "path": "lectures/00-see-the-destination.md",
+    "before": null,
+    "after": "246dca33241a8ff03b2ff62bb928025f4337caa51ef8448c9dfbd50501b69c26"
+  },
+  {
+    "path": "lectures/00-visual-cpp-primer.md",
+    "before": null,
+    "after": "45b48d90293d5767061a6d38f6841c08111d94b9af0d402ae63b82310f5708dc"
+  },
+  {
+    "path": "lectures/01-first-program/README.md",
+    "before": "8e03b7bdfcb6c74bdbff5760c1c073cca8360f704c76289d7e482c13259ade67",
+    "after": "0581b9ef8d5fb5b2fdbe746cde43feb42e497c0bd03ca56bc744a617c826828a"
+  },
+  {
+    "path": "lectures/02-instructions-and-output/README.md",
+    "before": "5e8f30212c50279e0f1b379e328a7b9b1b4d369f65a62491e86e6c0d1650bc0c",
+    "after": "23fcbc5834e0a3a483b4698fab7b9733df6280cb342fc44d45fac36dd8ea4ba4"
+  },
+  {
+    "path": "lectures/03-variables/README.md",
+    "before": "c4a55ce5b20f59f8e03bd3ae90d45bb0e0a8c7483f0d77d229b781d56c3df7a5",
+    "after": "84878ab59b622d240febc4eb813461e3bc34c7804a2ac3eddc37f8b1c66d1f8a"
+  },
+  {
+    "path": "lectures/04-changing-state/README.md",
+    "before": "6140272ea29950dabb1f53424672a5d167ceabff6459083d129ad605217ffb5f",
+    "after": "0fd6d84e96c91988c57e69e4df38d1812e1b22d24503b03353e514fc9d9c9d48"
+  },
+  {
+    "path": "lectures/06-conditions/README.md",
+    "before": "1affca9e17b50dca012e2089f495b8bd1fd27ccb96c5a49d430c65a046c456b5",
+    "after": "15394f8f4ea0fd09708c874d2544dfadda5f1e4bb1c87424c294ac4bd4889e0f"
+  },
+  {
+    "path": "lectures/07-loops/README.md",
+    "before": "cbb80c92a89a9d4c65d23cd1b4aeed7e7f7436270ae7cfde51b3c774d5f114ff",
+    "after": "04b250cbaeb370a8d2b97dbcdbcae8b132fea729f0d1e028e86f8efbfb5dbfe8"
+  },
+  {
+    "path": "lectures/08-coordinates/README.md",
+    "before": "8858806b81284a2ff6a87cad9beb2da74edfc5d5b5195a8e301bbade3d178023",
+    "after": "72f2ad445e36f46c023d429af8ec6e1d67b8e96907245d74cc57a236f3a3b822"
+  },
+  {
+    "path": "lectures/11-functions-and-examples/README.md",
+    "before": "e5629e4ae7ce72c20f067fccd4ddd43d0f2f8438917398e191ee4e85acbfc715",
+    "after": "e3471245126c73b29c744b818163683fc8111bec06dcb5c9fb6ece63744f4c5b"
+  },
+  {
+    "path": "lectures/12-valid-movement/README.md",
+    "before": "d61c9afe2c9fcff2a9b89d61f6cfc9969e2dcae31da6d469d767a27b9fc38ada",
+    "after": "a72b3a8c572820c52f47c3ffe922377043bd076567dac03468e82ce77d15c508"
+  },
+  {
+    "path": "lectures/14-program-structure/README.md",
+    "before": "8b17b5dfa1e3a36898194af02c918012a81d1290e1de928aac8ee06167fbf80d",
+    "after": "3e28e1780dd494b225c449a93de828ab83ab7c7b498bbf836450e52df09af337"
+  },
+  {
+    "path": "lectures/17-one-ray/README.md",
+    "before": "c99b10eb977437bffcb30d782d3f8a1ba09653a7aa562b06fd0c44b4a34b5930",
+    "after": "714084881662f6f0b10ea5ecff255168ed147a4a819c42fbd4cd35d37f25a9f0"
+  },
+  {
+    "path": "lectures/18-wall-projection/README.md",
+    "before": "c482212fcf212bc40584ebfdea40f11b5368cf39b158b6cbccc8a3951eaf7e81",
+    "after": "09b96d5e52903d42cb51c5e7388fe8521176af127d069bd256b291fb74c84089"
+  },
+  {
+    "path": "lectures/README.md",
+    "before": "bdce84322fe783493a01fa684fc23ef046a4df87ba6a61736af052c621890d1d",
+    "after": "c599a846e578509b9107a097dfe397333d3ea9f5c21c7f21e0f67a2ffee6fa68"
+  },
+  {
+    "path": "lectures/SETUP.md",
+    "before": "8fdd5e7bba0e81044e13e59e3c9f453b559ea89e256f486cce3c5b7b689ba164",
+    "after": "bf67bd85869fa7d360250620f5c0a365b56ebb4ca5187d3bc27397e21bbfcfb3"
+  },
+  {
+    "path": "lectures/references.md",
+    "before": "563f8f8e2aba6a21491144205a205616c961f488ce8c990849b08e380253dc28",
+    "after": "e78273bee3ebdfcd12ce0e01634ec5e56f471e94f9d4c79e6ee20ddbd71824f8"
+  }
+]

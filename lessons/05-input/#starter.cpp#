@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main()
+{
+    char command = '?';
+    // TRY THIS: make the prompt explain that Enter is needed.
+    std::cout << "Type one letter: ";
+    if (!(std::cin >> command)) return 0; // Adult-supplied end-of-input handling.
+    std::cout << "You typed: " << command << "\n";
+    return 0;
+}
